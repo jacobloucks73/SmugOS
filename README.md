@@ -16,17 +16,28 @@ COMPLETED
 
 10/30/2025 11:15am    -    10/31/2025 2:15am
 
+The goals of this sprint were to get knowledge of the steps involved in setting up the development enviroment
+
+Accomplished:
+
 1. Got the DSL Iso running on QEMU in the debian 13 VM
 2. got the github repo initialized  and public(hi)
 3. made agile sprint template and backlog file for eventual backlog once the research sprint is started
 
 
-sprint  1(Research):  
+sprint  1(Research and Minimal Viable Product):  
 
 IN PROGRESS
 
-10/31/2025 2:15am    -    
+10/31/2025 2:15am    -   
 
-1.
-2.
-3.
+The goals of this sprint were to:
+
+1. make a fuctional bootloader
+2. make a kernal entry file
+3. make a MVP kernel to output minimal output
+4. make a linker script
+5. make a makefile to make the above into a bootable image
+6. make a bootable iso that outputs the kernels minimal response
+
+the end goal is to have a deliverable iso that is recreatable on outside machines(QEMU)
